@@ -3,6 +3,7 @@ body{
     font-family: 'Segoe UI', sans-serif;
     background:#f5efe7;
     color:#3e2c23;
+    border: 5px solid red;
 }
 
 header{
