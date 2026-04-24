@@ -54,14 +54,15 @@ nav a:hover{
 }
 
 .menu{
+    display: block;
+}
+
+.menu-items{
     display: flex;
     flex-direction: row;
     gap: 20px;
-    overflow-x: auto;   /* allows horizontal scroll */
+    overflow-x: auto;
     padding: 10px;
-}
-
-.menu-item{
     background:white;
     min-width: 220px;
     padding:20px;
